@@ -11,6 +11,6 @@ git commit - Commit staged files
 
 git clone <repo URL> - Clone repository form URL
 
-git remote add <name> <url> - Add remote repository at url.
+git remote add origin https://github.com/colpanick/<repo>.git - Add remote repository 
 
-git push -u <remote name> <local name>
+git push -u origin master
