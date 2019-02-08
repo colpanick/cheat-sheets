@@ -13,11 +13,23 @@ w - words
 s - sentences
 p - paragraphs
 t - tags
+>}])" - Enclosure
 
 Motions
 a - all
-i - in
+i - in - doesn't grab white space like a
 t - til
 f - find forward
 F - find backward
 
+Commands
+d - delete
+c - change
+y - yank
+yy - yank entire line
+v - visualy select
+
+p - paste after
+P - baste before
+I - move to beginning of line and insert
+O - insert new line above current line
