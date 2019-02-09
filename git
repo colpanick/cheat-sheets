@@ -10,6 +10,9 @@ git commit - Commit staged files
 
 git checkout - pull file from repo
 
+git checkout - pull file from repo
+
+git ament -m - change commit message
 # Work Remotely
 
 git clone <repo URL> - Clone repository form URL
