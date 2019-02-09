@@ -2,10 +2,13 @@
 git init [dir name] - Create repository
 
 git add <file/dir name> - Stage file or directory for commit
-        --all - Stage all files in repo for commit
+        -A - Stage all files in repo for commit
 
 git commit - Commit staged files
         -m "Message" - add committ message
+        --amend - update previous commit
+
+git checkout - pull file from repo
 
 # Work Remotely
 
