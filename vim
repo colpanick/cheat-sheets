@@ -33,3 +33,9 @@ p - paste after
 P - baste before
 I - move to beginning of line and insert
 O - insert new line above current line
+
+q[IDkey] - Start/stop recording macro [IDkey]
+@[IDkey] - Play macro [IDkey]
+. - Repeat last action
+m[IDkey] - Record current line location to [IDkey]
+~[IDkey] - Go to line location [IDkey]
