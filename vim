@@ -7,6 +7,7 @@ H - Move the cursor to the top of the window
 M - Move the cursor to the middle of the window
 L - Move cursor to the middle of the window
 gg - Go to the top of the file
+G - Go to the end of the file
 
 Text Objects
 w - words
